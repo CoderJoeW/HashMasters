@@ -2,8 +2,8 @@
 class DBManager{
     private $credentials = array(
         "host" => "localhost",
-        "user" => "tester",
-        "pass" => "l00k0u1",
+        "user" => "",
+        "pass" => "",
         "db" => "hashes"
     );
 
